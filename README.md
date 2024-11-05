@@ -7,5 +7,3 @@ Install Vuforia pkg and set-up the license in the ARCamera in Specs scene.
 # Demo
 https://github.com/MdAsimKhan/AR-Industrial-Training/assets/51525305/7aca37e0-e521-4158-8a5d-637ecce09367
 
-# PS
-I created this project in an internship so I simply forked it from there. All the work is legit done by me.
